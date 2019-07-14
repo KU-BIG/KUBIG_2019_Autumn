@@ -1,6 +1,6 @@
 # KUBIG_2019_Autumn
 
-- This page will be updated before 30 August, 2019
+- This document will be updated before 30 August, 2019
 
 ## Timeline
 | 일정                    |  일자 | 비고                                |
