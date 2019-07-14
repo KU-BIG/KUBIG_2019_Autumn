@@ -10,7 +10,8 @@
 - [Pandas, Matplotlib, Numpy 10분만에 배우기](https://ourcstory.tistory.com/145)  
 - [Scikit-learn Tutorial](https://scikit-learn.org/stable/tutorial/index.html)  
 - [Pandas Tutorial](https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html)  
-- [Numpy Tutorial](https://docs.scipy.org/doc/numpy/user/quickstart.html)  
+- [Numpy Tutorial](https://docs.scipy.org/doc/numpy/user/quickstart.html) 
+- [numpy 어쩌구.. (수정부탁드립니다)](https://jalammar.github.io/visual-numpy/?fbclid=IwAR0PVaMtNfqntIkH3VmNWzuUBQjLI8rAHf3Dea1XqvZT78vdSUz3nxncQQk)
 
 ## Github Tutorial
 - [게임으로 깃허브 브랜칭 배우기](https://learngitbranching.js.org/)
@@ -40,6 +41,7 @@
 ## 강화학습
 - cs231n
 - 강화학습 스터디
+- [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
 
 ## 파이썬 설치(제발 로컬 ㅠㅠ)
 - 아나콘다 밴
