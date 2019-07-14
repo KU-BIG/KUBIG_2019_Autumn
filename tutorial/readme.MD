@@ -30,12 +30,19 @@
 - [Data Science Tutorial for Beginners](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners?fbclid=IwAR0t1nPPQNWbrfIPDYtU3In3Q4AhU29M1bfpOeOvP4lXQD1liIR_Px04dZg)
 
 ## 딥러닝
+- cmu
+- 딥러닝 스터디
 
 ## 강화학습
+- cs231n
+- 강화학습 스터디
 
 ## 파이썬 설치(제발 로컬 ㅠㅠ)
+- 아나콘다 밴
+- pip3 설치 등..
 
 ## 주피터 노트북, 주피터 랩, 주피터 extension 등
+- 설치방법
 
 우선 [여기](https://github.com/KU-BIG/project_default_to_clone)에서 긁어와서 몇개 채워놓았는데
 나머지 내용 보충해주시고 순서도 변경해주시면(원하시는대로) 좋을것 같습니다! 학술부 늘 고생이 많습니다 짱짱 :)
