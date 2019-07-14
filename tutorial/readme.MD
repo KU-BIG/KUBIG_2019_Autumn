@@ -2,6 +2,10 @@
 - [Deep Learning with Pytorch : A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
 - [Deep Learning with Pytorch | Datacamp](https://www.datacamp.com/courses/deep-learning-with-pytorch)
 
+## Fast.ai
+- 저도 써보고 싶은데, 아직 시간이 나지 않아 시도해보지 못했습니다
+- Tensorflow를 Keras가 편하게 사용하게 해주듯, Pytorch를 편하게 사용하게 해주는 패키지로 알고 있습니다
+
 ## Packages for Machine Learning Tutorial
 - [Pandas, Matplotlib, Numpy 10분만에 배우기](https://ourcstory.tistory.com/145)  
 - [Scikit-learn Tutorial](https://scikit-learn.org/stable/tutorial/index.html)  
