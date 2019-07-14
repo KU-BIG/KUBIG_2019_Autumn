@@ -10,6 +10,7 @@
 
 ## Github Tutorial
 - [게임으로 깃허브 브랜칭 배우기](https://learngitbranching.js.org/)
+- gitignore, git-lfs 를 다룰수 있으면 좋을것 같지만... 욕심일수도 ㅜㅜ
 
 ## Web Scrapping 
 - [파이썬 정적 스크래핑 : BeautifulSoup](https://beomi.github.io/2017/01/20/HowToMakeWebCrawler/)  
