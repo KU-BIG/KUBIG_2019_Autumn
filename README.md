@@ -1,11 +1,11 @@
 # KUBIG_2019_Autumn
-<p style="text-align: center;">
-  <img width=500 src="https://user-images.githubusercontent.com/33321949/62995357-287d0100-be9b-11e9-971f-f286e7418e32.jpg" style="margin-left: auto; margin-right: auto; display: block;"></img>
+<p align="center">
+  <img width=500 src="https://user-images.githubusercontent.com/33321949/62995357-287d0100-be9b-11e9-971f-f286e7418e32.jpg">
 </p>
 
 
 
-### 고려대학교 통계학과 인증 유일 데이터 분석 학회.
+### 고려대학교 통계학과 인증 유일 데이터 분석 학회
 * 지원자격
   - **1년간 활동**(**방학 포함**)이 가능한 고려대학교 학생
   - 전공 무관, 학부/대학원 무관
