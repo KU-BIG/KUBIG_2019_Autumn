@@ -10,6 +10,7 @@
   - **R**과 **Python**을 배우고 싶은 분
   - 데이터 분석에 관심 있으신 분
 
+--------------------------------------------------
 ## Timeline
 - This Timeline will be updated before 8 September, 2019
 
@@ -23,6 +24,7 @@
 | 첫 세션 | 9/19(목) | 19:00 / Machine Learning 개론 (예정) |
 | **MT** | 9/20(금)~9/21(토) | *불참시 합격 취소의 사유가 됩니다.*|
 
+--------------------------------------------------
 ## Contact
-github admin : sje0397@gmail.com
+github admin : sje0397@gmail.com  
 facebook page : https://www.facebook.com/kubigdata
