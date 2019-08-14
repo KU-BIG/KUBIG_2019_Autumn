@@ -1,6 +1,6 @@
 # KUBIG_2019_Autumn
 
-![kubig_recruiting_poster](https://user-images.githubusercontent.com/33321949/62995357-287d0100-be9b-11e9-971f-f286e7418e32.jpg)
+<img src="https://user-images.githubusercontent.com/33321949/62995357-287d0100-be9b-11e9-971f-f286e7418e32.jpg" width="300">
 
 ### 고려대학교 통계학과 인증 유일 데이터 분석 학회.
 * 지원자격
