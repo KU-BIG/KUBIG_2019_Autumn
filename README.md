@@ -1,7 +1,7 @@
 # KUBIG_2019_Autumn
-<center>
+<p style="text-align: center;">
   <img width=500 src="https://user-images.githubusercontent.com/33321949/62995357-287d0100-be9b-11e9-971f-f286e7418e32.jpg"></img>
-</center>
+</p>
 
 
 
