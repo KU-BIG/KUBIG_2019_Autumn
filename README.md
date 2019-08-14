@@ -1,11 +1,7 @@
 # KUBIG_2019_Autumn
-<p style="text-align: center;">
-    <img src="https://user-images.githubusercontent.com/33321949/62995357-287d0100-be9b-11e9-971f-f286e7418e32.jpg" width="50%"></img>
-</p>
+<img src="https://user-images.githubusercontent.com/33321949/62995357-287d0100-be9b-11e9-971f-f286e7418e32.jpg" width="50%"></img>
 
-<p style="text-align: center;">
-    <img src="https://user-images.githubusercontent.com/33321949/62995357-287d0100-be9b-11e9-971f-f286e7418e32.jpg/pic/pic1_50.png" width="600">
-</p>
+
 
 ### 고려대학교 통계학과 인증 유일 데이터 분석 학회.
 * 지원자격
