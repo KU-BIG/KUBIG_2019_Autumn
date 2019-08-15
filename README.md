@@ -35,7 +35,7 @@
 ## Tutorial
 깃허브 듀토리얼  
 데이터분석 패키지 듀토리얼  
-더 많은 자료는 [project_default_to_clone](https://https://github.com/KU-BIG/project_default_to_clone) repository를 참고하세요.
+더 많은 자료는 [project_default_to_clone](https://github.com/KU-BIG/project_default_to_clone) repository를 참고하세요.
 
 -----------------------------------------------------
 ## Contact
