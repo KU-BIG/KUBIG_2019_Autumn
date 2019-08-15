@@ -32,6 +32,12 @@
 | Midterm break | 10/17(목) ~ 10/24(목) |        |
 
 -----------------------------------------------------
+## Tutorial
+깃허브 듀토리얼
+데이터분석 패키지 듀토리얼
+더 많은 자료는 [project_default_to_clone repository](https://https://github.com/KU-BIG/project_default_to_clone)를 참고하세요.
+
+-----------------------------------------------------
 ## Contact
 github admin : sje0397@gmail.com  
 facebook page : https://www.facebook.com/kubigdata
