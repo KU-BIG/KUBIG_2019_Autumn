@@ -76,9 +76,9 @@
 
 ## 딥러닝
 
-- cmu
-
 - 딥러닝 스터디
+
+- [cmu](https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA)
 
 - [cs231n](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
@@ -101,6 +101,16 @@
 ## 주피터 노트북, 주피터 랩, 주피터 extension 등
 
 - 설치방법
+
+- [Windows Python 설치 (로컬)](https://medium.com/@psychet_learn/python-%EA%B8%B0%EC%B4%88-2%EC%9E%A5-python-%EC%84%A4%EC%B9%98-%EB%B0%8F-%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95-windows-ver-b030d96bcbd0)  
+- [Windows Jupyter Notebook 설치 (로컬)](https://brunch.co.kr/@mapthecity/16)  
+
+
+- [Windows Python/Jupyter Notebook 설치 (아나콘다)](https://tensorflow.blog/%EC%9C%88%EB%8F%84%EC%9A%B0%EC%A6%88%EC%97%90-%EC%95%84%EB%82%98%EC%BD%98%EB%8B%A4-%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/)
+
+- [Mac Python/Jupyter Notebook 설치](https://www.appsmint.com/2016/10/jupyteripython-notebook.html)  
+
+- [Windows/Mac Jupyter Lab 설치](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html)
 
 ​     
 
