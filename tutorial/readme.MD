@@ -25,7 +25,7 @@
 
 - [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
 
-- [numpy and data representation](https://jalammar.github.io/visual-numpy/?fbclid=IwAR0PVaMtNfqntIkH3VmNWzuUBQjLI8rAHf3Dea1XqvZT78vdSUz3nxncQQk)
+- [Numpy and data representation](https://jalammar.github.io/visual-numpy/?fbclid=IwAR0PVaMtNfqntIkH3VmNWzuUBQjLI8rAHf3Dea1XqvZT78vdSUz3nxncQQk)
 
 ​     
 ## 딥러닝
