@@ -36,14 +36,7 @@
 
 - [cs231n](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
-​     
-
-## 강화학습
-
-- 강화학습 스터디
-
-​     
-
+​ 
 ## Pytorch Tutorial
 
 - [Deep Learning with Pytorch : A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
@@ -58,7 +51,11 @@
 
 ​     
 
+## 강화학습
 
+- 강화학습 스터디
+
+​     
 
 ## Github Tutorial
 
