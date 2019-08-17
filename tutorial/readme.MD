@@ -1,18 +1,17 @@
-## Pytorch Tutorial
+## 파이썬, 주피터 노트북, 주피터 랩 설치
 
-- [Deep Learning with Pytorch : A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
 
-- [Deep Learning with Pytorch | Datacamp](https://www.datacamp.com/courses/deep-learning-with-pytorch)
+- [Windows Python 설치 (로컬)](https://medium.com/@psychet_learn/python-%EA%B8%B0%EC%B4%88-2%EC%9E%A5-python-%EC%84%A4%EC%B9%98-%EB%B0%8F-%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95-windows-ver-b030d96bcbd0)  
 
-​     
+- [Windows Jupyter Notebook 설치 (로컬)](https://brunch.co.kr/@mapthecity/16)  
 
-## Fast.ai
+- [Windows Python/Jupyter Notebook 설치 (아나콘다)](https://tensorflow.blog/%EC%9C%88%EB%8F%84%EC%9A%B0%EC%A6%88%EC%97%90-%EC%95%84%EB%82%98%EC%BD%98%EB%8B%A4-%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/)
 
-- 저도 써보고 싶은데, 아직 시간이 나지 않아 시도해보지 못했습니다
+- [Mac Python/Jupyter Notebook 설치](https://www.appsmint.com/2016/10/jupyteripython-notebook.html)  
 
-- Tensorflow를 Keras가 편하게 사용하게 해주듯, Pytorch를 편하게 사용하게 해주는 패키지로 알고 있습니다
+- [Windows/Mac Jupyter Lab 설치](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html)
 
-​     
+​    
 
 ## Packages for Machine Learning Tutorial
 
@@ -29,12 +28,41 @@
 - [numpy and data representation](https://jalammar.github.io/visual-numpy/?fbclid=IwAR0PVaMtNfqntIkH3VmNWzuUBQjLI8rAHf3Dea1XqvZT78vdSUz3nxncQQk)
 
 ​     
+## 딥러닝
+
+- 딥러닝 스터디
+
+- [cmu](https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA)
+
+- [cs231n](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+
+​     
+
+## 강화학습
+
+- 강화학습 스터디
+
+​     
+
+## Pytorch Tutorial
+
+- [Deep Learning with Pytorch : A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+
+- [Deep Learning with Pytorch | Datacamp](https://www.datacamp.com/courses/deep-learning-with-pytorch)
+
+​     
+
+## Fast.ai
+
+- [Fast.ai Tutorial](https://docs.fast.ai/tutorials.html)
+
+​     
+
+
 
 ## Github Tutorial
 
 - [게임으로 깃허브 브랜칭 배우기](https://learngitbranching.js.org/)
-
-- gitignore, git-lfs 를 다룰수 있으면 좋을것 같지만... 욕심일수도 ㅜㅜ
 
 ​     
 
@@ -43,12 +71,6 @@
 - [파이썬 정적 스크래핑 : BeautifulSoup](https://beomi.github.io/2017/01/20/HowToMakeWebCrawler/)  
 
 - [파이썬 동적 스크래핑 : Selenium](https://beomi.github.io/2017/02/27/HowToMakeWebCrawler-With-Selenium/)
-
-- 정적과 동적의 차이는 javascript 함수를 실행시켜야 하느냐 아니냐입니다
-
-- javascript 함수의 실행이 필요하면 동적 스크래핑
-
-- 그렇지 않으면 정적 스크래핑
 
 ​     
 
@@ -74,48 +96,3 @@
 
 ​     
 
-## 딥러닝
-
-- 딥러닝 스터디
-
-- [cmu](https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA)
-
-- [cs231n](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
-
-​     
-
-## 강화학습
-
-- 강화학습 스터디
-
-​     
-
-## 파이썬 설치(제발 로컬 ㅠㅠ)
-
-- 아나콘다 밴
-
-- pip3 설치 등..
-
-​     
-
-## 주피터 노트북, 주피터 랩, 주피터 extension 등
-
-- 설치방법
-
-- [Windows Python 설치 (로컬)](https://medium.com/@psychet_learn/python-%EA%B8%B0%EC%B4%88-2%EC%9E%A5-python-%EC%84%A4%EC%B9%98-%EB%B0%8F-%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95-windows-ver-b030d96bcbd0)  
-- [Windows Jupyter Notebook 설치 (로컬)](https://brunch.co.kr/@mapthecity/16)  
-
-
-- [Windows Python/Jupyter Notebook 설치 (아나콘다)](https://tensorflow.blog/%EC%9C%88%EB%8F%84%EC%9A%B0%EC%A6%88%EC%97%90-%EC%95%84%EB%82%98%EC%BD%98%EB%8B%A4-%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/)
-
-- [Mac Python/Jupyter Notebook 설치](https://www.appsmint.com/2016/10/jupyteripython-notebook.html)  
-
-- [Windows/Mac Jupyter Lab 설치](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html)
-
-​     
-
-우선 [여기](https://github.com/KU-BIG/project_default_to_clone)에서 긁어와서 몇개 채워놓았는데
-
-나머지 내용 보충해주시고 순서도 변경해주시면(원하시는대로) 좋을것 같습니다! 학술부 늘 고생이 많습니다 짱짱 :)
-
-​     
