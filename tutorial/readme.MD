@@ -1,106 +1,106 @@
-\## Pytorch Tutorial
+## Pytorch Tutorial
 
-\- [Deep Learning with Pytorch : A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+- [Deep Learning with Pytorch : A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
 
-\- [Deep Learning with Pytorch | Datacamp](https://www.datacamp.com/courses/deep-learning-with-pytorch)
-
-​     
-
-\## Fast.ai
-
-\- 저도 써보고 싶은데, 아직 시간이 나지 않아 시도해보지 못했습니다
-
-\- Tensorflow를 Keras가 편하게 사용하게 해주듯, Pytorch를 편하게 사용하게 해주는 패키지로 알고 있습니다
+- [Deep Learning with Pytorch | Datacamp](https://www.datacamp.com/courses/deep-learning-with-pytorch)
 
 ​     
 
-\## Packages for Machine Learning Tutorial
+## Fast.ai
 
-\- [Pandas, Matplotlib, Numpy 10분만에 배우기](https://ourcstory.tistory.com/145)  
+- 저도 써보고 싶은데, 아직 시간이 나지 않아 시도해보지 못했습니다
 
-\- [Scikit-learn Tutorial](https://scikit-learn.org/stable/tutorial/index.html)  
-
-\- [Pandas Tutorial](https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html)  
-
-\- [Numpy Tutorial](https://docs.scipy.org/doc/numpy/user/quickstart.html) 
-
-\- [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
-
-\- [numpy and data representation](https://jalammar.github.io/visual-numpy/?fbclid=IwAR0PVaMtNfqntIkH3VmNWzuUBQjLI8rAHf3Dea1XqvZT78vdSUz3nxncQQk)
+- Tensorflow를 Keras가 편하게 사용하게 해주듯, Pytorch를 편하게 사용하게 해주는 패키지로 알고 있습니다
 
 ​     
 
-\## Github Tutorial
+## Packages for Machine Learning Tutorial
 
-\- [게임으로 깃허브 브랜칭 배우기](https://learngitbranching.js.org/)
+- [Pandas, Matplotlib, Numpy 10분만에 배우기](https://ourcstory.tistory.com/145)  
 
-\- gitignore, git-lfs 를 다룰수 있으면 좋을것 같지만... 욕심일수도 ㅜㅜ
+- [Scikit-learn Tutorial](https://scikit-learn.org/stable/tutorial/index.html)  
 
-​     
+- [Pandas Tutorial](https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html)  
 
-\## Web Scrapping 
+- [Numpy Tutorial](https://docs.scipy.org/doc/numpy/user/quickstart.html) 
 
-\- [파이썬 정적 스크래핑 : BeautifulSoup](https://beomi.github.io/2017/01/20/HowToMakeWebCrawler/)  
+- [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
 
-\- [파이썬 동적 스크래핑 : Selenium](https://beomi.github.io/2017/02/27/HowToMakeWebCrawler-With-Selenium/)
-
-\- 정적과 동적의 차이는 javascript 함수를 실행시켜야 하느냐 아니냐입니다
-
-\- javascript 함수의 실행이 필요하면 동적 스크래핑
-
-\- 그렇지 않으면 정적 스크래핑
+- [numpy and data representation](https://jalammar.github.io/visual-numpy/?fbclid=IwAR0PVaMtNfqntIkH3VmNWzuUBQjLI8rAHf3Dea1XqvZT78vdSUz3nxncQQk)
 
 ​     
 
-\## Datasets for use
+## Github Tutorial
 
-\- [Google Dataset Search](https://toolbox.google.com/datasetsearch?fbclid=IwAR3QnkmmXsVY8zoGlz3t4HzmxcVSliDIruPSud7EnZoz7eUqGzrgXBeLNzc) 
+- [게임으로 깃허브 브랜칭 배우기](https://learngitbranching.js.org/)
 
-\- [Kaggle Datasets](https://www.kaggle.com/datasets)  
-
-\- [KDnuggets Datasets](https://www.kdnuggets.com/datasets/index.html)  
-
-\- [Datasets for Machine Learning](https://www.datasetlist.com/?fbclid=IwAR3Pc48OZU3eMRs-W8ai5lZkUnLHJlrUNrD2-RNltR_u8p5jjtit2gtQY0s)
-
-\- [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
+- gitignore, git-lfs 를 다룰수 있으면 좋을것 같지만... 욕심일수도 ㅜㅜ
 
 ​     
 
-\## For Kaggle
+## Web Scrapping 
 
-\- [캐글 초보자를 위한 10가지 팁](https://subinium.github.io/kaggle-tips/?fbclid=IwAR1pXxLM_7ztEwEndSXAXJVLn-aMFdfqL_Ru2zxnw1djfdrPMKLrrnG3A9c)  
+- [파이썬 정적 스크래핑 : BeautifulSoup](https://beomi.github.io/2017/01/20/HowToMakeWebCrawler/)  
 
-\- [Data Science Tutorial for Beginners](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners?fbclid=IwAR0t1nPPQNWbrfIPDYtU3In3Q4AhU29M1bfpOeOvP4lXQD1liIR_Px04dZg)
+- [파이썬 동적 스크래핑 : Selenium](https://beomi.github.io/2017/02/27/HowToMakeWebCrawler-With-Selenium/)
 
-​     
+- 정적과 동적의 차이는 javascript 함수를 실행시켜야 하느냐 아니냐입니다
 
-\## 딥러닝
+- javascript 함수의 실행이 필요하면 동적 스크래핑
 
-\- cmu
-
-\- 딥러닝 스터디
-
-\- [cs231n](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+- 그렇지 않으면 정적 스크래핑
 
 ​     
 
-\## 강화학습
+## Datasets for use
 
-\- 강화학습 스터디
+- [Google Dataset Search](https://toolbox.google.com/datasetsearch?fbclid=IwAR3QnkmmXsVY8zoGlz3t4HzmxcVSliDIruPSud7EnZoz7eUqGzrgXBeLNzc) 
+
+- [Kaggle Datasets](https://www.kaggle.com/datasets)  
+
+- [KDnuggets Datasets](https://www.kdnuggets.com/datasets/index.html)  
+
+- [Datasets for Machine Learning](https://www.datasetlist.com/?fbclid=IwAR3Pc48OZU3eMRs-W8ai5lZkUnLHJlrUNrD2-RNltR_u8p5jjtit2gtQY0s)
+
+- [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
 
 ​     
 
-\## 파이썬 설치(제발 로컬 ㅠㅠ)
+## For Kaggle
 
-\- 아나콘다 밴
+- [캐글 초보자를 위한 10가지 팁](https://subinium.github.io/kaggle-tips/?fbclid=IwAR1pXxLM_7ztEwEndSXAXJVLn-aMFdfqL_Ru2zxnw1djfdrPMKLrrnG3A9c)  
 
-\- pip3 설치 등..
+- [Data Science Tutorial for Beginners](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners?fbclid=IwAR0t1nPPQNWbrfIPDYtU3In3Q4AhU29M1bfpOeOvP4lXQD1liIR_Px04dZg)
 
 ​     
 
-\## 주피터 노트북, 주피터 랩, 주피터 extension 등
+## 딥러닝
 
-\- 설치방법
+- cmu
+
+- 딥러닝 스터디
+
+- [cs231n](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+
+​     
+
+## 강화학습
+
+- 강화학습 스터디
+
+​     
+
+## 파이썬 설치(제발 로컬 ㅠㅠ)
+
+- 아나콘다 밴
+
+- pip3 설치 등..
+
+​     
+
+## 주피터 노트북, 주피터 랩, 주피터 extension 등
+
+- 설치방법
 
 ​     
 
