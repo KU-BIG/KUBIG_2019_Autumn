@@ -54,6 +54,7 @@
 ## 강화학습
 
 - 강화학습 스터디
+- [Reinforcement Learning Course by David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
 
 ​     
 
