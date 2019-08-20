@@ -38,6 +38,18 @@
 더 많은 자료는 [project_default_to_clone](https://github.com/KU-BIG/project_default_to_clone) repository를 참고하세요.
 
 -----------------------------------------------------
+## Material
+세션 자료, 기타 참고 자료
+
+-----------------------------------------------------
+## Challenge
+코딩 챌린지
+
+-----------------------------------------------------
+## Projects
+팀프로젝트
+
+-----------------------------------------------------
 ## Contact
 github admin : sje0397@gmail.com  
 facebook page : https://www.facebook.com/kubigdata
