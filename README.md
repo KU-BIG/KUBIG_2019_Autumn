@@ -34,7 +34,7 @@
 -----------------------------------------------------
 ## Tutorial
 분석을 위한 튜토리얼들은  
-[KUBIG-Wiki](https://github.com/KU-BIG/KUBIG-Wiki)를 참고하세요.
+[KUBIG-Wiki](https://github.com/KU-BIG/KUBIG_Wiki)를 참고하세요.
 
 -----------------------------------------------------
 ## Material
