@@ -33,9 +33,8 @@
 
 -----------------------------------------------------
 ## Tutorial
-깃허브 듀토리얼  
-데이터분석 패키지 듀토리얼  
-더 많은 자료는 [project_default_to_clone](https://github.com/KU-BIG/project_default_to_clone) repository를 참고하세요.
+분석을 위한 튜토리얼들은  
+[KUBIG-Wiki](https://github.com/KU-BIG/KUBIG-Wiki)를 참고하세요.
 
 -----------------------------------------------------
 ## Material
