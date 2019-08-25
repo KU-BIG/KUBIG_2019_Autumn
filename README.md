@@ -27,7 +27,7 @@
 | 1st 세션 | 9/19(목) | 19:00 / Machine Learning 개론 (예정) |
 | **MT** | 9/20(금) ~ 9/21(토) | *불참시 합격 취소의 사유가 됩니다.*|
 | 2st 세션 | 9/26(목) | 19:00 / Supervised Learning (예정) |
-| 3st 세션 | 10/4(금) | 19:00 / Unsupervised Learning and Deep Learning (예정) |
+| 3st 세션 | 10/4(금) | 19:00 / Deep Learning and Unsupervised Learning (예정) |
 | 4st 세션 | 10/10(목) | 19:00 / 2019 Autumn Project Outline Presentation (예정) |
 | Midterm break | 10/17(목) ~ 10/24(목) |        |
 
