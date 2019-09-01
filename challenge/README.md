@@ -33,7 +33,7 @@ Datacamp에서 아래의 목록을 들으시면 됩니다.
 	- [Exploratory Data Analysis in R: Case study](https://www.datacamp.com/courses/exploratory-data-analysis-in-r-case-study)
 	- [Machinie Learning Toolbox](https://www.datacamp.com/courses/machine-learning-toolbox)
 
-* 다른 [Career task](https://www.datacamp.com/tracks/career)참고하여 추후에 더 공부해도 좋습니다.
+* 다른 [Career task](https://www.datacamp.com/tracks/career) 참고하여 추후에 더 공부해도 좋습니다.
 
 
 -------------------
