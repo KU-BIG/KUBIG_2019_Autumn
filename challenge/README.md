@@ -10,8 +10,7 @@
 추후 Project 조 편성 시 고려되지도 않습니다.
 
 Datacamp에서 아래의 목록을 들으시면 됩니다.  
-* Python 
-	- [Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python?version=2) 
+* Python : [Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python?version=2) 
 	- [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science)  
 	- [Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)  
 	- [Python data Science Toolbox(Part 1)](https://www.datacamp.com/courses/python-data-science-toolbox-part-1)  
@@ -22,8 +21,7 @@ Datacamp에서 아래의 목록을 들으시면 됩니다.
 	- [Analyzing Police Activity with pandas](https://www.datacamp.com/courses/analyzing-police-activity-with-pandas)  
 	- [Cleaning Data in Python](https://www.datacamp.com/courses/cleaning-data-in-python)  
 
-* R
-	- [Data Scientist with R](https://www.datacamp.com/tracks/data-scientist-with-r)
+* R : [Data Scientist with R](https://www.datacamp.com/tracks/data-scientist-with-r)
 	- [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)
 	- [Intermediate R](https://www.datacamp.com/courses/intermediate-r)
 	- [Importing Data in R](https://www.datacamp.com/courses/importing-data-in-r-part-1)
