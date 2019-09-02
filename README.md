@@ -24,11 +24,11 @@
 | 면접 | 9/4(수), 9/5(목) |                               |
 | 최종합격 발표 | 9/6(금) | 18:00 이후 발표 예정            |
 | **OT** | 9/9(월) | 19:00 / *불참시 합격 취소의 사유가 됩니다.* |
-| 1st 세션 | 9/19(목) | 19:00 / Machine Learning 개론 (예정) |
+| 1st 세션 | 9/19(목) | 19:00 / Machine Learning 개론 |
 | **MT** | 9/20(금) ~ 9/21(토) | *불참시 합격 취소의 사유가 됩니다.*|
-| 2st 세션 | 9/26(목) | 19:00 / Supervised Learning (예정) |
-| 3st 세션 | 10/4(금) | 19:00 / Deep Learning and Unsupervised Learning (예정) |
-| 4st 세션 | 10/10(목) | 19:00 / 2019 Autumn Project Outline Presentation (예정) |
+| 2st 세션 | 9/26(목) | 19:00 / Supervised Learning |
+| 3st 세션 | 10/4(금) | 19:00 / Deep Learning and Unsupervised Learning  |
+| 4st 세션 | 10/10(목) | 19:00 / 2019 Autumn Project Outline Presentation  |
 | Midterm break | 10/17(목) ~ 10/24(목) |        |
 
 -----------------------------------------------------
