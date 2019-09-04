@@ -25,5 +25,5 @@
 11. NN Intro
 12. Training Neural Network
 13. Distance Measure and K-means
-14. Heirarchical Clustering
+14. Hierarchical Clustering
 15. Density based Clustering
