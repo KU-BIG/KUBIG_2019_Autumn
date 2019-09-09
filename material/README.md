@@ -6,6 +6,7 @@
 
 --------------------------------------------
 ### 개론
+0. [EDA](https://www.kaggle.com/ash316/eda-to-prediction-dietanic)
 1. Machine Learning  
 2. Preprocessing   
 3. Modeling  
