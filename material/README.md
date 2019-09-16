@@ -22,8 +22,8 @@
 
 ----------------------------------------------
 ### Neural Network & Clustering
-11. NN Intro, [Progress Bars in Python](https://towardsdatascience.com/progress-bars-in-python-4b44e8a4c482)
-12. Training Neural Network
+11. NN Intro
+12. Training Neural Network, [Progress Bars in Python](https://towardsdatascience.com/progress-bars-in-python-4b44e8a4c482)
 13. Distance Measure and K-means
 14. Hierarchical Clustering
 15. Density based Clustering
