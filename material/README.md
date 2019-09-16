@@ -5,7 +5,7 @@
 
 --------------------------------------------
 ### 개론
-0. [EDA](https://www.kaggle.com/ash316/eda-to-prediction-dietanic)
+0. [EDA](https://www.kaggle.com/ash316/eda-to-prediction-dietanic)j, [Interactive Controls in Jupyter Notebooks](http://github.com/KU-BIG/KUBIG_Wiki/wiki/Docker-Setup-Guide)
 1. Machine Learning  
 2. Preprocessing   
 3. Modeling  
