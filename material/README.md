@@ -27,3 +27,7 @@
 13. Distance Measure and K-means
 14. Hierarchical Clustering
 15. Density based Clustering
+
+----------------------------------------------
+### References
+[Session References](https://github.com/KU-BIG/KUBIG_Wiki/wiki/Session_References)
