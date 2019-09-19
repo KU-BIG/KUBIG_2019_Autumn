@@ -1,4 +1,5 @@
-**Python, R 챌린지를 모두 할 필요 없습니다.**
+**Python, R 챌린지를 모두 할 필요 없습니다.  
+Due Date : Sat. 10/5 11:59pm**
 
 ## Python
 Jupyter notebook, Jupyter lab으로 .ipynb 확장자를 읽을 수 있습니다.
