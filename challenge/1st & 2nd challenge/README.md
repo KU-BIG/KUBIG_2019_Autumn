@@ -16,6 +16,7 @@ file > reopen with encoding > utf-8로 설정하시길 바랍니다.
 
 ## 제출
 kubigkorea@gmail.com  
+
 파일명 형식  
 ```
 1. [Python] EDA_이름.ipynb  
