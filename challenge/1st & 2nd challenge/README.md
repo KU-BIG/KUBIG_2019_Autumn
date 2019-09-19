@@ -17,9 +17,12 @@ file > reopen with encoding > utf-8로 설정하시길 바랍니다.
 ## 제출
 kubigkorea@gmail.com  
 파일명 형식  
+```
 1. [Python] EDA_이름.ipynb  
 1. [Python] preprocess_이름.ipynb  
 1. [R] EDA,Preprocessing_이름.ipynb  
+```
+
 **Python 제출자는 위에 두 파일을,   
 R 제출자는 가장 마지막 파일을,   
 모두 하실 분은 세 파일을 제출해주시길 바랍니다.**
