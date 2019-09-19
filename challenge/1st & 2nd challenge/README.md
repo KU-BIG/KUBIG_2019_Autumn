@@ -15,6 +15,10 @@ Rstudio에서 마크다운이 깨진경우
 file > reopen with encoding > utf-8로 설정하시길 바랍니다.
 
 
+## Data
+coding challenge에 필요한 data들은 data폴더에 있습니다.
+
+
 ## 제출
 kubigkorea@gmail.com  
 
