@@ -16,7 +16,7 @@ file > reopen with encoding > utf-8로 설정하시길 바랍니다.
 
 깔끔하게 보시기 위해서는 Rmd 파일을 열고 상단에 있는 knit 버튼을 눌러주시길 바랍니다.  
 
-참조링크
+**참조링크**  
 [R markdown cheatsheet](https://www.rstudio.com/wp-content/uploads/2016/02/rmarkdown-cheatsheet-kr.pdf)  
 [R markdown 기초](https://blog.zarathu.com/posts/2019-01-03-rmarkdown/)
 
