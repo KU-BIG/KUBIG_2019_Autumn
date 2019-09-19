@@ -23,7 +23,7 @@ coding challenge에 필요한 data들은 data폴더에 있습니다.
 kubigkorea@gmail.com  
 
 ## 파일명 형식
-[1주차]
+**[1주차]**
 ```
 1. [Python] EDA_이름.ipynb  
 1. [Python] preprocess_이름.ipynb  
