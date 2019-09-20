@@ -33,7 +33,7 @@ kubigkorea@gmail.com
 ```
 1. [Python] EDA_이름.ipynb  
 1. [Python] preprocess_이름.ipynb  
-1. [R] EDA,Preprocessing_이름.ipynb  
+1. [R] EDA,Preprocessing_이름.R  
 ```
 
 **Python 제출자는 위에 두 파일을,   
