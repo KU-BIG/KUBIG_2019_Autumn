@@ -39,3 +39,18 @@ kubigkorea@gmail.com
 **Python 제출자는 위에 두 파일을,   
 R 제출자는 가장 마지막 파일을,   
 모두 하실 분은 세 파일을 제출해주시길 바랍니다.**
+
+----
+
+**[2주차]**
+```
+2. [Python] Supervise1_이름.ipynb  
+2. [Python] Supervise2_이름.ipynb  
+2. [R] Supervise1_이름.R
+2. [R] Supervise2_이름.R  
+```
+
+**Python 제출자는 위에 두 파일을,   
+R 제출자는 뒤에 두 파일을,   
+모두 하실 분은 모든 파일을 제출해주시길 바랍니다.**
+
