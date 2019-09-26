@@ -1,0 +1,166 @@
+---
+title: "2. Supervised Learning Challenge2"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Supervised Learning Challenge : Decision tree, Bagging and Boosting
+
++ due date : **Sat. 10/5 11:59 pm**
++ 이 과제는 2학기 프로젝트 조 편성 시 반영됩니다.
+
+
+***
+
++ titanic.csv를 로드하고 data라는 변수에 저장하시오.
+```{r}
+
+data <- read.csv('~/titanic.csv')
+
+```
+
++ data의 1행부터 6열까지 출력하시오
+
+```{r}
+head(#코드를 입력하세요)
+```
++ data의 column 명을 확인하시오.
+
+
+```{r}
+names(data)
+```
+
++ data의 PassengerId, Name, SibSp, Parch, Ticket, Fare, Cabin, Embarked 열들을 제거하시오.
+
+```{r}
+data <- #코드를 입력하세요
+```
+
++ data의 Age column에서 결측값이 몇개인지 확인하시오.
+
+```{r}
+#코드를 입력하세요
+```
+
++ data의 Age column에 있는 결측값들을 중앙값으로 대체하시오.
+
+```{r}
+#코드를 입력하세요
+```
+
+
++ data의 2열부터 4열까지를 x 라는 변수에 저장하고 1열을 y라는 변수에 저장하시오.
+```{r}
+x <- data[, 2:4]
+y <- data[, 1]
+```
+
++ x의 행들 중 80%를 random하게 x_train이라는 변수에 저장하고 그 외 20%는 x_test라는 변수에 저장하시오.
+
++ x_train과 x_test에 대응되는 y값들을 y_train, y_test라는 변수에 저장하시오.
+
+```{r}
+data1 <- sort(sample(nrow(data), nrow(data)*.8))
+
+x_train <- x[data1,]
+x_test <- #코드를 입력하세요.
+
+y_train <- y[data1]
+y_test <- #코드를 입력하세요.
+
+
+train <- data[data1,]
+test <- data[-data1,]
+```
+
+
+```{r}
+#install.packages('rpart')
+library(rpart)
+#install.packages('adabag')
+library('adabag')
+
+train$Survived<-as.factor(train$Survived)
+```
+
++ train이라는 dataframe에서 Survived를 반응변수로하고 그 외 나머지 변수들을 설명변수로 하는 의사결정나무를 적합하시오.
+
+```{r}
+dt <- rpart(#코드를 입력하세요.)
+
+plot(dt)
+text(dt)
+
+y_pred <- predict(dt, test,type='class')
+
+
+ctable = table(test[,1], y_pred, dnn=c("Actual", "Predicted"))
+ctable
+
+
+
+pred.acc = sum(diag(ctable))/sum(ctable) ; pred.acc
+
+
+```
+
++ bagging, 아래 코드를 실행시켜 보시오.
+
+```{r}
+fit <- bagging(Survived~., data=train)
+y_pred = predict(fit, newdata=test)
+
+
+pred.acc = sum(diag(y_pred$confusion))/sum(y_pred$confusion) ;pred.acc
+
+
+```
+
+
++ boosting, 아래 코드를 실행시 보시오.
+
+```{r}
+adab<- boosting(Survived ~., train)
+y_pred <- predict(adab, n.tree=100 ,newdata=test)
+
+
+y_pred$confusion
+
+pred.acc = sum(diag(y_pred$confusion))/sum(y_pred$confusion); pred.acc
+
+```
+
+
++ xgboost, 아래 코드를 실행시켜 보시오.
+```{r}
+#install.packages('xgboost')
+library(xgboost)
+
+
+
+x_train['Sex'] <- as.numeric(unlist(x_train['Sex']))
+x_test['Sex'] <- as.numeric(unlist(x_test['Sex']))
+
+
+
+xgb.train <- xgb.DMatrix(data=as.matrix(x_train),label=as.matrix(y_train))
+
+
+
+xgb.fit <- xgb.train(data=xgb.train, nrounds=2500)
+
+xgb.pred <- predict(xgb.fit,as.matrix(x_test))
+xgb.pred <- as.data.frame(xgb.pred)
+
+prediction <- as.numeric(xgb.pred > 0.5)
+
+pred.acc = sum(prediction == y_test)/length(prediction) ;pred.acc
+
+
+```
