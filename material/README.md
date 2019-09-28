@@ -7,7 +7,7 @@
 ### 개론
 0. [EDA](https://www.kaggle.com/ash316/eda-to-prediction-dietanic), [Interactive Controls in Jupyter Notebooks](https://towardsdatascience.com/interactive-controls-for-jupyter-notebooks-f5c94829aee6)
 1. Machine Learning  
-2. Preprocessing   
+2. Preprocessing, [Using 100% of CPUs with Parallel Processing](https://github.com/KU-BIG/KUBIG_Wiki/wiki/python_multiprocessing)
 3. Modeling  
 4. Cross Validation, [Validation for Time Series](https://github.com/KU-BIG/KUBIG_Wiki/wiki/Forecasting-Time-Series)
 5. Evaluation
