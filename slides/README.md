@@ -1,1 +1,1 @@
-각 주차 Session 별 Slide가 업데이트될 예정입니다.
+각 주차 Session 별 Slide입니다.
