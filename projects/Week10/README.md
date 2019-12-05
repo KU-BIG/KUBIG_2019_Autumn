@@ -1,6 +1,6 @@
 # 최종발표
 
-## Atari Breakout with RL
+## [Atari Breakout with RL](https://github.com/KU-BIG/KUBIG_2019_Autumn/blob/master/projects/Week10/Team4_RL_1205.pdf)
 - 김혜빈, 박지윤, 유승완, 이혜연, 이정진, 양지현
 
 ## [Chicago Crime](https://github.com/KU-BIG/KUBIG_2019_Autumn/blob/master/projects/Week10/Chicago_crime_1205.pdf)
