@@ -63,3 +63,6 @@
 ## Contact
 github admin : sje0397@gmail.com  
 facebook page : https://www.facebook.com/kubigdata
+회장단 : 송민, 유현우
+학술부 : 박수희, 임형준, 심정은, 양수형, 정재원
+대외부 : 윤재경, 고유경, 박지윤
