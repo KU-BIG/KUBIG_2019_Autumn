@@ -46,6 +46,7 @@
 -----------------------------------------------------
 <p align="center">
   <img width=560 src="https://user-images.githubusercontent.com/33321949/62995357-287d0100-be9b-11e9-971f-f286e7418e32.jpg">
+  <img width=150 src="qr-code.png">
 </p>
 
 
