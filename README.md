@@ -44,12 +44,6 @@
 [최종발표 슬라이드](https://github.com/KU-BIG/KUBIG_2019_Autumn/tree/master/projects/Week10)
 
 -----------------------------------------------------
-<p align="center">
-  <img width=560 src="https://user-images.githubusercontent.com/33321949/62995357-287d0100-be9b-11e9-971f-f286e7418e32.jpg">
-  <img width=150 src="qr-code.png">
-</p>
-
-
 
 ### 고려대학교 통계학과 인증 유일 데이터 분석 학회
 * 지원자격
